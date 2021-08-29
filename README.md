@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenzielmorgan
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML. CSS, JavaScript and C
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @mlmorgan1998 on Twitter
 
